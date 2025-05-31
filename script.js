@@ -33,7 +33,7 @@ function startFakeHopeLoop() {
 startFakeHopeLoop();
 
 puzzleButton.addEventListener("click", () => {
-  window.location.href = "https://yourusername.github.io/puzzle-game/";
+  window.location.href = "https://okyimfine.github.io/Free-cloud-ugphone/";
 });
 
 window.addEventListener("load", () => {
